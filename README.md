@@ -9,7 +9,7 @@ ___
 A node layer is a row of those neuron-like switches that turn on or off as the input is fed through the net. Each layer’s output is simultaneously the subsequent layer’s input, starting from an initial input layer receiving your data.
 
 ![alt text](https://skymind.ai/images/wiki/mlp.png)
-
+![image.jpg](image/images.png)<br><br>
 Simply put, a neural network is a connected graph with input neurons, output neurons, and weighted edges. Let’s go into detail about some of these components:
 
 __1) Neurons:__ A neural network is a graph of neurons. A neuron has inputs and outputs. Similarly, a neural network has inputs and outputs. The inputs and outputs of a neural network are represented by input neurons and output neurons.
@@ -19,3 +19,18 @@ __2) Connections and Weights:__ A neural network consists of connections, each c
 __3) Propagation Function:__ The propagation function computes the input of a neuron from the outputs of predecessor neurons. The propagation function is leveraged during the forward propagation stage of training.
 
 __4) Learning Rule:__ The learning rule is a function that modifies the weights of the connections. This serves to produce a favored output for a given input for the neural network. The learning rule is leveraged during the backward propagation stage of training.
+___
+
+## Repository Overview
+This repository is about different Neural Network algorithm approaches as per the industry practices.
+
+## Table of Contents
+- [Malaria Infected Cell Detection](#section1)<br>
+
+___
+
+<a id=section2></a>
+### [Malaria Infected Cell Detection](./Infected_Cells_Detection)
+
+
+ * [Link for the Jupyter notebook](./Infected_Cells_Detection/Analysis.ipynb)
