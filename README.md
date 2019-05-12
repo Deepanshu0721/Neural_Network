@@ -9,7 +9,7 @@ ___
 A node layer is a row of those neuron-like switches that turn on or off as the input is fed through the net. Each layer’s output is simultaneously the subsequent layer’s input, starting from an initial input layer receiving your data.
 
 ![alt text](https://skymind.ai/images/wiki/mlp.png)
-
+download.png
 
 ![image.jpg](images/images.png)<br><br>
 Simply put, a neural network is a connected graph with input neurons, output neurons, and weighted edges. Let’s go into detail about some of these components:
@@ -26,6 +26,7 @@ ___
 ## Repository Overview
 This repository is about different Neural Network algorithm approaches as per the industry practices.
 
+![image.jpg](images/downlaod.png)<br><br>
 ## Table of Contents
 - [Malaria Infected Cell Detection](#section1)<br>
 
