@@ -26,7 +26,7 @@ ___
 ## Repository Overview
 This repository is about different Neural Network algorithm approaches as per the industry practices.
 
-![image.jpg](images/downlaod.png)<br><br>
+![image.jpg](images/download.png)<br><br>
 ## Table of Contents
 - [Malaria Infected Cell Detection](#section1)<br>
 
