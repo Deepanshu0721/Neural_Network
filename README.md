@@ -9,7 +9,9 @@ ___
 A node layer is a row of those neuron-like switches that turn on or off as the input is fed through the net. Each layer’s output is simultaneously the subsequent layer’s input, starting from an initial input layer receiving your data.
 
 ![alt text](https://skymind.ai/images/wiki/mlp.png)
-![image.jpg](image/images.png)<br><br>
+
+
+![image.jpg](images/images.png)<br><br>
 Simply put, a neural network is a connected graph with input neurons, output neurons, and weighted edges. Let’s go into detail about some of these components:
 
 __1) Neurons:__ A neural network is a graph of neurons. A neuron has inputs and outputs. Similarly, a neural network has inputs and outputs. The inputs and outputs of a neural network are represented by input neurons and output neurons.
