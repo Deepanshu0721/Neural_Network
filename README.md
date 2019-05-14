@@ -7,7 +7,6 @@ The layers are made of __nodes__. A node is just a place where computation happe
 
 ![image.jpg](images/download.png)<br><br>
 
-___
 
 A node layer is a row of those neuron-like switches that turn on or off as the input is fed through the net. Each layer’s output is simultaneously the subsequent layer’s input, starting from an initial input layer receiving your data.
 
@@ -15,6 +14,7 @@ A node layer is a row of those neuron-like switches that turn on or off as the i
 
 ## Why Neural Network?
 The main advantages of using __Artificial Neural Networks (ANN)__ include: it can handle large amount of data sets; it has the ability to implicitly detect complex nonlinear relationships between dependent and independent variables; it has ability to detect all possible interactions between predictor variables; etc.
+___
 
 ## Repository Overview
 This repository is about different Neural Network algorithm approaches as per the industry practices.
