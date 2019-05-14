@@ -26,12 +26,14 @@ This repository is about different Neural Network algorithm approaches as per th
 
 ___
 
-<a id=section2></a>
+<a id=section1></a>
 ### [Neural Classifier](./Neural_Classifier)
  * Classification of categories on basis of five features(i.e. actually reading of a particular instruments)
+ * We tried to classify our data using different basic machine learining classifiers and tried to used Neural Network for classification    as other classifiers failed to classify our data-set with sufficient accuracy.
  * [Link for the Jupyter notebook](./Neural_Classifier/Analysis.ipynb)
 
 <a id=section2></a>
 ### [Malaria Infected Cell Detection](./Infected_Cells_Detection)
- * Identification of Infected Malaria cells using CNN.
+ * Image Classification using CNN.
+ * We have two datasets containing Malaria Infected and Uninfected cell images, we tried to classify each using CNN.
  * [Link for the Jupyter notebook](./Infected_Cells_Detection/Analysis.ipynb)
