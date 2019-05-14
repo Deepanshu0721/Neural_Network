@@ -29,3 +29,29 @@ The layer we call as FC layer, we flattened our matrix into vector and feed it i
 ![alt text](https://cdn-images-1.medium.com/max/800/1*Mw6LKUG8AWQhG73H1caT8w.png)
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*4GLv7_4BbKXnpc6BRb0Aew.png)
+
+
+__About Data__
+
+![image.jpg](image/Capture.PNG)<br><br>
+![image.jpg](image/Capture1.PNG)<br><br>
+![image.jpg](image/Capture2.PNG)<br><br>
+![image.jpg](image/Capture3.PNG)<br><br>
+![image.jpg](image/Capture4.PNG)<br><br>
+![image.jpg](image/Capture5.PNG)<br><br>
+
+__Model 1__
+
+![image.jpg](image/Capture6.PNG)<br><br>
+![image.jpg](image/Capture7.PNG)<br><br>
+![image.jpg](image/Capture8.PNG)<br><br>
+![image.jpg](image/Capture9.PNG)<br><br>
+![image.jpg](image/Capture10.PNG)<br><br>
+
+__Model 2__
+
+![image.jpg](image/Capture11.PNG)<br><br>
+![image.jpg](image/Capture12.PNG)<br><br>
+![image.jpg](image/Capture13.PNG)<br><br>
+![image.jpg](image/Capture14.PNG)<br><br>
+![image.jpg](image/Capture15.PNG)<br><br>
