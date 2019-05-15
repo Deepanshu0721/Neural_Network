@@ -33,25 +33,54 @@ The layer we call as FC layer, we flattened our matrix into vector and feed it i
 
 __About Data__
 
+* Overview of Data
 ![image.jpg](image/Capture.PNG)<br><br>
 ![image.jpg](image/Capture1.PNG)<br><br>
+
+* Comparision of Healthy and Infected Cells
 ![image.jpg](image/Capture2.PNG)<br><br>
+
+* Dark Spot Identification
 ![image.jpg](image/Capture3.PNG)<br><br>
+
+* One Hot Encoding
 ![image.jpg](image/Capture4.PNG)<br><br>
+
+* Splitting Dataset into Test-Train sample
 ![image.jpg](image/Capture5.PNG)<br><br>
+
+___
 
 __Model 1__
 
+* Model Summary
 ![image.jpg](image/Capture6.PNG)<br><br>
+
+* Confusion Matrix
 ![image.jpg](image/Capture7.PNG)<br><br>
+
+* Classification Report
 ![image.jpg](image/Capture8.PNG)<br><br>
+
+* Epochs v/s Loss
 ![image.jpg](image/Capture9.PNG)<br><br>
+
+* Epochs v/s Accuracy
 ![image.jpg](image/Capture10.PNG)<br><br>
 
 __Model 2__
 
+* Model Summary
 ![image.jpg](image/Capture11.PNG)<br><br>
+
+* Confusion Matrix
 ![image.jpg](image/Capture12.PNG)<br><br>
+
+* Classification Report
 ![image.jpg](image/Capture13.PNG)<br><br>
+
+* Epochs v/s Loss
 ![image.jpg](image/Capture14.PNG)<br><br>
+
+* Epochs v/s Accuracy
 ![image.jpg](image/Capture15.PNG)<br><br>
