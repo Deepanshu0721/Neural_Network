@@ -33,64 +33,71 @@ The layer we call as FC layer, we flattened our matrix into vector and feed it i
 
 __About Data__
 
-* Overview of Data
+* __Overview of Data__
+
 ![image.jpg](image/Capture.PNG)<br><br>
+
 ![image.jpg](image/Capture1.PNG)<br><br>
 
-* Comparision of Healthy and Infected Cells
+* __Comparision of Healthy and Infected Cells__
+
 ![image.jpg](image/Capture2.PNG)<br><br>
 
-* Dark Spot Identification
+* __Dark Spot Identification__
+
 ![image.jpg](image/Capture3.PNG)<br><br>
 
-* One Hot Encoding
+* __One Hot Encoding__
+
 ![image.jpg](image/Capture4.PNG)<br><br>
 
-* Splitting Dataset into Test-Train sample
+* __Splitting Dataset into Test-Train sample__
+
+
 ![image.jpg](image/Capture5.PNG)<br><br>
 
 ___
 
 __Model 1__
 
-* Model Summary
+* __Model Summary__
 
 ![image.jpg](image/Capture6.PNG)<br><br>
 
-* Confusion Matrix
+* __Confusion Matrix__
 
 ![image.jpg](image/Capture7.PNG)<br><br>
 
-* Classification Report
+* __Classification Report__
 
 ![image.jpg](image/Capture8.PNG)<br><br>
 
-* Epochs v/s Loss
+* __Epochs v/s Loss__
 
 ![image.jpg](image/Capture9.PNG)<br><br>
 
-* Epochs v/s Accuracy
+* __Epochs v/s Accuracy__
 
 ![image.jpg](image/Capture10.PNG)<br><br>
 
 __Model 2__
 
-* Model Summary
+* __Model Summary__
 
 ![image.jpg](image/Capture11.PNG)<br><br>
 
-* Confusion Matrix
+* __Confusion Matrix__
 
 ![image.jpg](image/Capture12.PNG)<br><br>
 
-* Classification Report
+* __Classification Report__
 
 ![image.jpg](image/Capture13.PNG)<br><br>
 
-* Epochs v/s Loss
+* __Epochs v/s Loss__
 
 ![image.jpg](image/Capture14.PNG)<br><br>
 
-* Epochs v/s Accuracy
+* __Epochs v/s Accuracy__
 
 ![image.jpg](image/Capture15.PNG)<br><br>
