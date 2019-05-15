@@ -101,3 +101,6 @@ __Model 2__
 * __Epochs v/s Accuracy__
 
 ![image.jpg](image/Capture15.PNG)<br><br>
+
+___
+
