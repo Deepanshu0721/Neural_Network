@@ -31,7 +31,7 @@ The layer we call as FC layer, we flattened our matrix into vector and feed it i
 ![alt text](https://cdn-images-1.medium.com/max/800/1*4GLv7_4BbKXnpc6BRb0Aew.png)
 
 
-__About Data__
+## About Data
 
 * __Overview of Data__
 
