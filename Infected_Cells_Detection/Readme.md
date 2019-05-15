@@ -54,33 +54,43 @@ ___
 __Model 1__
 
 * Model Summary
+
 ![image.jpg](image/Capture6.PNG)<br><br>
 
 * Confusion Matrix
+
 ![image.jpg](image/Capture7.PNG)<br><br>
 
 * Classification Report
+
 ![image.jpg](image/Capture8.PNG)<br><br>
 
 * Epochs v/s Loss
+
 ![image.jpg](image/Capture9.PNG)<br><br>
 
 * Epochs v/s Accuracy
+
 ![image.jpg](image/Capture10.PNG)<br><br>
 
 __Model 2__
 
 * Model Summary
+
 ![image.jpg](image/Capture11.PNG)<br><br>
 
 * Confusion Matrix
+
 ![image.jpg](image/Capture12.PNG)<br><br>
 
 * Classification Report
+
 ![image.jpg](image/Capture13.PNG)<br><br>
 
 * Epochs v/s Loss
+
 ![image.jpg](image/Capture14.PNG)<br><br>
 
 * Epochs v/s Accuracy
+
 ![image.jpg](image/Capture15.PNG)<br><br>
