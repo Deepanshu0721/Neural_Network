@@ -26,3 +26,25 @@ __3) Propagation Function:__ The propagation function computes the input of a ne
 
 __4) Learning Rule:__ The learning rule is a function that modifies the weights of the connections. This serves to produce a favored output for a given input for the neural network. The learning rule is leveraged during the backward propagation stage of training.
 ___
+
+__About Data__
+
+![image.jpg](images/Capture1.PNG)<br><br>
+
+![image.jpg](images/Capture2.PNG)<br><br>
+
+![image.jpg](images/Capture3.PNG)<br><br>
+
+![image.jpg](images/Capture4.PNG)<br><br>
+
+![image.jpg](images/Capture5.PNG)<br><br>
+
+
+![image.jpg](images/Capture6.PNG)<br><br>
+
+
+![image.jpg](images/Capture7.PNG)<br><br>
+
+
+![image.jpg](images/Capture8.PNG)<br><br>
+
