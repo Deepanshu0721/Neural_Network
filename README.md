@@ -21,17 +21,17 @@ This repository is about different Neural Network algorithm approaches as per th
 
 ## Table of Contents
 
-- [Neural Classifier](#section1)<br>
+- [DIgit Classifier](#section1)<br>
 - [Malaria Infected Cell Detection](#section2)<br>
 
 ___
 
 <a id=section1></a>
-### [Neural Classifier](./Neural_Classifier)
+### [Digit Classifier](./Digit_Classifier)
 
  * Classification of hand-written digit data-set.
  * We tried to classify our data using different using Neural Network.
- * [Link for the Jupyter notebook](./Neural_Classifier/Neural.ipynb)
+ * [Link for the Jupyter notebook](./Digit_Classifier/Neural.ipynb)
 
 <a id=section2></a>
 ### [Malaria Infected Cell Detection](./Infected_Cells_Detection)
