@@ -5,12 +5,12 @@ __Neural networks__ are a set of algorithms, modeled loosely after the human bra
 The layers are made of __nodes__. A node is just a place where computation happens, loosely patterned on a neuron in the human brain, which fires when it encounters sufficient stimuli. 
 
 
-![image.jpg](images/download.png)<br><br>
+![image.jpg](images/1_TtbpAISiZjcS6ep8kW4P3g.png)<br><br>
 
 ___
 A node layer is a row of those neuron-like switches that turn on or off as the input is fed through the net. Each layer’s output is simultaneously the subsequent layer’s input, starting from an initial input layer receiving your data.
 
-![image.jpg](images/images.png)<br><br>
+![image.jpg](images/41593_2005_Article_BFnn1578_Fig1_HTML.gif)<br><br>
 
 Simply put, a neural network is a connected graph with input neurons, output neurons, and weighted edges. Let’s go into detail about some of these components:
 
