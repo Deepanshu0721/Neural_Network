@@ -33,18 +33,25 @@ __About Data__
 
 ![image.jpg](images/Capture2.PNG)<br><br>
 
+__Over-View 0f Training Data-set__ 
+
 ![image.jpg](images/Capture3.PNG)<br><br>
+
+__Model Summary__
 
 ![image.jpg](images/Capture4.PNG)<br><br>
 
 ![image.jpg](images/Capture5.PNG)<br><br>
 
+__Epoch V/s Loss__
 
 ![image.jpg](images/Capture6.PNG)<br><br>
 
+__Epoch V/s Accuracy__
 
 ![image.jpg](images/Capture7.PNG)<br><br>
 
+__Prediction__
 
 ![image.jpg](images/Capture8.PNG)<br><br>
 
